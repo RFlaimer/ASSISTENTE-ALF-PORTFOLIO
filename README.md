@@ -56,6 +56,12 @@ destacado da versão estável mais recente**, atualizado junto com cada publica�
 aprovada. Não haverá uma seção pública de histórico de atualizações nesta fase.
 Enquanto não houver um pacote validado, não será exibido um download fictício.
 
+Está prevista a opção **Configurações → Atualizações → Verificar atualizações**
+no aplicativo instalado. Ela permitirá baixar e instalar uma versão compatível,
+preservando a memória, os projetos e as configurações do próprio usuário. Recursos
+adicionais terão download informado separadamente. Esse atualizador ainda não
+está implementado como distribuição pública utilizável.
+
 ## Próximas entregas
 
 1. Separar dados pessoais, executáveis, modelos e cache.
